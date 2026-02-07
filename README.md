@@ -1,3 +1,3 @@
-https://www.handsontec.com/dataspecs/display/MAX7219-8x8.pdf
+Simluation in Fritzing 
 
-Simluation : fritzing 
+https://www.handsontec.com/dataspecs/display/MAX7219-8x8.pdf
